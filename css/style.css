@@ -1,8 +1,14 @@
 .parallax-container {
-  height: 200px;
+  height: 500px;
 }
-.img{
-	 width:560;
-	 height:315;
+body{
+	background: gray;
 }
-
+.rounded{
+	border-radius: 50%;
+	border: 2px 2px solid
+}
+@font-face{
+font-family: font;
+src:url(../13219.otf);
+}
